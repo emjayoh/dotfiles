@@ -1,0 +1,28 @@
+[global_config]
+  borderless = True
+  enabled_plugins = CustomCommandsMenu, InactivityWatch, ActivityWatch, TerminalShot, LaunchpadCodeURLHandler, APTURLHandler, LaunchpadBugURLHandler
+  scroll_tabbar = True
+  title_font = ShureTechMono Nerd Font 12
+  title_use_system_font = False
+[keybindings]
+[layouts]
+  [[default]]
+    [[[child1]]]
+      parent = window0
+      profile = default
+      type = Terminal
+    [[[window0]]]
+      parent = ""
+      type = Window
+[plugins]
+[profiles]
+  [[default]]
+    background_color = "#282828"
+    cursor_blink = False
+    cursor_color = "#aaaaaa"
+    font = Cousine for Powerline 12
+    foreground_color = "#ebdbb2"
+    scrollback_infinite = True
+    scrollbar_position = hidden
+    show_titlebar = False
+    use_system_font = False
