@@ -11,7 +11,6 @@
   ▓▓▓▓▓▓▓▓▓▓
  ░▓ about  ▓ custom linux config files
  ░▓ author ▓ emjayoh <emjayoh@gmail.com>
- ░▓ mirror ▓ http://git.io/.files
  ░▓▓▓▓▓▓▓▓▓▓
  ░░░░░░░░░░
 
